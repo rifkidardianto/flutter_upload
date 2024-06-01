@@ -1,6 +1,13 @@
-# flutter_test_upload
+# flutter_jobsheet3
 
-A new Flutter project.
+Project ini dibuat untuk pemenuhan penyelesaian UTS.
+
+Nama    : Rifki Dwi Ardianto
+
+NIM     : STI202102552
+
+Tugas   : Assignment 3
+
 
 ## Getting Started
 
