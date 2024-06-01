@@ -1,7 +1,5 @@
 # flutter_jobsheet3
 
-Project ini dibuat untuk pemenuhan penyelesaian UTS.
-
 Nama    : Rifki Dwi Ardianto
 
 NIM     : STI202102552
